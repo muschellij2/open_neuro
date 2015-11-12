@@ -1,9 +1,10 @@
 # Open Neuroimaging Datasets
 
-# Overall Repositories
+## Overall Repositories
 * [NITRC (Neuroimaging Informatics Tools and Resources Clearinghouse)](https://www.nitrc.org/)
     * [NITRC Data Resources](https://www.nitrc.org/search/?type_of_search=group&cat=325:Data)
-    
+  
+  
 ## MRI
 * [IXI Datasets](https://biomedic.doc.ic.ac.uk/brain-development/index.php?n=Main.Datasets)
     * 600 MR images from normal, healthy subjects. * The MR image acquisition protocol for each subject includes:
